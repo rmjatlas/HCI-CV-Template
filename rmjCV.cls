@@ -25,14 +25,14 @@
 \RequirePackage{subfigure} % figures divided into subfigures
 \RequirePackage{enumerate} % enumerate with redefinable labels
 \RequirePackage{titlesec} % select alternative section titles
-\RequirePackage[]{hyperref} % extensivE support for hypertext--USE DRAFT OPTION TO DEACTIVATE HYPERLINK FUNCTION
+\RequirePackage[]{hyperref} % extensive support for hypertext -- PASS DRAFT OPTION TO DEACTIVATE HYPERLINKS
 \hypersetup{
 	colorlinks=true,
 	linkcolor=blue,
 	filecolor=magenta,      
 	urlcolor=cyan,
 }
-
+\RequirePackage{comment}
 \RequirePackage{titlesec} % provides an interface to sectioning commands for selection from various title styles
 \RequirePackage{fancyhdr} % provides extensive facilities, both for constructing headers and footers, and for controlling their use
 \RequirePackage{fontawesome5} % provides support for the included “Font Awesome 5 Free” icon set
