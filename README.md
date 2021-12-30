@@ -1,6 +1,6 @@
 <h1>HCI resume/CV template</h1>
 
-A simple resume/cv template for recent Human-Computer Interaction graduates entering industry
+A simple resume/CV template for recent Human-Computer Interaction graduates entering industry.
 
 .cls and .tex files included
 
